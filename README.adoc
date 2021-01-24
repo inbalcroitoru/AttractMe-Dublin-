@@ -21,7 +21,7 @@ Given current source bus station, the app recommends on an attraction, based on 
 
 Attraction Recommendation Application.
 
-image::presentation-pic.png[] 
+image::presentation-picture.png[] 
 
 == About The Data 
 
