@@ -48,6 +48,11 @@ _Elasticsearch_ as data warehouse.
 === Final Task 
 In order to use the app (as a user) please enter the dashboard link and follow the instructions: https://eastus.azuredatabricks.net/?o=6694791539123117#notebook/2483473424245047/dashboard/2285495459158863/present/[AppDashboard]. +  
 
+.Dashboard Example
+
+image::example-dashboard-pic.jpeg[align="center",60%] 
+
+
 In order to run the app code, please run the following files in the following order: 
 
 1. `schema_matching_NLP.ipynb` 
