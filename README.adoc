@@ -21,7 +21,7 @@ Given current source bus station, the app recommends on an attraction, based on 
 
 Attraction Recommendation Application.
 
-image::presentation-pic.png[] 
+image::presentation-picture.png[] 
 
 == About The Data 
 
@@ -44,7 +44,7 @@ _Apache_Spark_(TM) and _Jupyter_Notebook_ as processing frameworks, and _Elastic
 * Code is written as if we read stream from Kafka server, look at the cell 'read stream data' in 'final_app.ipynb'. 
 
 === Final Task 
-In order to use the app (as a user) please enter the dashboard: XXXXX/[AppDashboard]. + and follow the instructions. 
+In order to use the app (as a user) please enter the dashboard: https://eastus.azuredatabricks.net/?o=6694791539123117#notebook/2483473424245047/dashboard/2285495459158863/present/[AppDashboard]. + and follow the instructions. 
 
 In order to run the app code, please run the following files in the following order: 
 1. 'attractions_schema_matching_using_NLP_methods.ipynb' 
