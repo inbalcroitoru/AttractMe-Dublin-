@@ -46,13 +46,14 @@ _Elasticsearch_ as data warehouse.
 * Code is written as if we read stream data from Kafka server, look at the cell 'read stream data' in `final_app.ipynb`. 
 
 === Final Task 
+==== Run As User
 In order to use the app (as a user) please enter the dashboard link and follow the instructions: https://eastus.azuredatabricks.net/?o=6694791539123117#notebook/2483473424245047/dashboard/2285495459158863/present/[AppDashboard]. +  
 
 .Dashboard Example
 
-image::example-dashboard-pic.jpeg[align="center",60%] 
+image::example-dashboard-pic.jpeg[,60%]
 
-
+==== Run Code
 In order to run the app code, please run the following files in the following order: 
 
 1. `schema_matching_NLP.ipynb` 
