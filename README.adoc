@@ -1,17 +1,28 @@
-=AttractMe 
-==Attraction Recommendation Application 
+= AttractMe 
+//settings
+:idprefix:
+:idseparator: -
+:source-language: ruby
+:language: {source-language}
+ifndef::env-github[:icons: font]
+ifdef::env-github[]
+:status:
+:outfilesuffix: .adoc
+endif::[]
+
+== Attraction Recommendation Application 
 
 Inbal Croitoru & Almog Gueta 
 
 
-==About The App 
+== About The App 
 
 Given current source bus station, the app recommends on an attraction, based on attractions' TripAdvisor rating, and optional bus lines' delays. 
 
 .Aaatraction Recommendation Application 
 image::presentataion_pic.png[,'80%] 
 
-==About The Data 
+== About The Data 
 
 * We have used 230 million recoreds from bus sensors within Dublin, between July 2017 to September 2018, as a stream data. 
 
@@ -21,17 +32,17 @@ image::presentataion_pic.png[,'80%]
 
 * We also used bus stops data that contain the geo location for each bus stop in Dublin. This data was downloaded from Smart Dublin website: https://data.smartdublin.ie/dataset/gtfs-r-real-time-passenger-information/[link]. +  
 
-==About The Technology 
+== About The Technology 
 _Apache_Spark_(TM) and _Jupyter_Notebook_ as processing frameworks, and _Elasticsearch_ as datawarehouse. 
 
-==About The Requirements & Usage 
+== About The Requirements & Usage 
 * Processing is accomplished by using Spark 2.4.5 (PySpark) and Python 3.7.5.
 * Please look at the 'Requirements.txt' file for required libraries. 
 * Instructions below assumes that the code will run on _Databricks_. 
 * Since we use _Elasticsearch_, in order to run the code you will need to write the following command on your VM cmd: 'sudo docker-compose up -d'
 * Code is written as if we read stream from Kafka server, look at the cell 'read stream data' in 'final_app.ipynb'. 
 
-===Final Task 
+=== Final Task 
 In order to use the app (as a user) please enter the dashboard: XXXXX/[AppDashboard]. + and follow the instructions. 
 
 In order to run the app code, please run the following files in the following order: 
@@ -48,7 +59,7 @@ In order to run the final app you are requested to choose _one_ of the options a
 The input data must include the same df columns as described in the 'final_app.ipynb' in the cell 'dublin data schema'. 
 
 
-===Warm up 
+=== Warm up 
 In order to run the Warm Up part, please run all files in the _warmup_task_ directory in the following order: 
 1. 'preprocess_n_save_external_data.ipynb'
 2. 'train_lr_model_task_2.ipynb' 
