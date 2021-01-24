@@ -50,24 +50,31 @@ In order to use the app (as a user) please enter the dashboard link and follow t
 
 In order to run the app code, please run the following files in the following order: 
 
-1. `attractions_schema_matching_using_NLP_methods.ipynb` 
+1. `schema_matching_NLP.ipynb` 
 
 2. `create_all_static_data_dfs.ipynb`
 
 3. `final_app.ipynb` 
--> Notice: this file includes code to create and upload to _Elasticsearch_ the Delay stream data. Please type your _Elasticsearch_ host number in the _imports_ cell. 
+-> Notice: this file includes code to create and upload to _Elasticsearch_ the Delay stream data. Please type your _Elasticsearch_ host number in the 'imports' cell. 
 
 In order to run the final app you are requested to choose _one_ of the options at the top of the notebook: 
+
 * For Stream Sources, enter your api in the "API" option.
+
 * For Batch Sources, enter your json path in the "Json path" option.
+
 * For a single source, choose one of the bus stops options presented in the "Source Bus Stop" option.
 
-The input data must include the same df columns as described in the 'final_app.ipynb' in the cell 'dublin data schema'. 
+The input data must include the same df columns as described in the `final_app.ipynb` in the cell 'dublin data schema'. 
 
 
 === Warm up 
-In order to run the Warm Up part, please run all files in the _warmup_task_ directory in the following order: 
+In order to run the Warm Up part, please run all files in the `warmup_task` directory in the following order: 
+
 1. `preprocess_n_save_external_data.ipynb`
+
 2. `train_lr_model_task_2.ipynb`
+
 3. `train_lr_task_3.ipynb` 
+
 4. `warmup_final.ipynb`
