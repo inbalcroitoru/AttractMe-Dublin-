@@ -19,8 +19,9 @@ Inbal Croitoru & Almog Gueta
 
 Given current source bus station, the app recommends on an attraction, based on attractions' TripAdvisor rating, and optional bus lines' delays. 
 
-.Aaatraction Recommendation Application 
-image::presentataion_pic.png[,80%] 
+Attraction Recommendation Application.
+
+image::presentation-pic.png[] 
 
 == About The Data 
 
