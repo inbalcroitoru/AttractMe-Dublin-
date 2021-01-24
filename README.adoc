@@ -55,8 +55,7 @@ In order to run the app code, please run the following files in the following or
 2. `create_all_static_data_dfs.ipynb`
 
 3. `final_app.ipynb` 
-
-	Notice: this file includes code to create and upload to 			_Elasticsearch_ the Delay stream data. Please type your 			_Elasticsearch_ host number in the _imports_ cell. 
+-> Notice: this file includes code to create and upload to _Elasticsearch_ the Delay stream data. Please type your _Elasticsearch_ host number in the _imports_ cell. 
 
 In order to run the final app you are requested to choose _one_ of the options at the top of the notebook: 
 * For Stream Sources, enter your api in the "API" option.
