@@ -19,7 +19,7 @@ Inbal Croitoru & Almog Gueta
 
 Given current source bus station, the app recommends on an attraction, based on attractions' TripAdvisor rating, and optional bus lines' delays. 
 
-Attraction Recommendation Application.
+.Attraction Recommendation Application
 
 image::presentation-picture.png[] 
 
@@ -27,42 +27,54 @@ image::presentation-picture.png[]
 
 * We have used 230 million recoreds from bus sensors within Dublin, between July 2017 to September 2018, as a stream data. 
 
-* we have used TripAdvisor attractions' ratings that we scrapped from their website. 
+* we have used _TripAdvisor_ attractions' ratings that we scrapped from their website. 
 
-* We matched these attractions data with attractions from the open data Irland website: data.gov.ie/[link]. +  
+* We matched these attractions data with attractions from the open data Ireland website: http://data.gov.ie/[link]. +  
 
-* We also used bus stops data that contain the geo location for each bus stop in Dublin. This data was downloaded from Smart Dublin website: https://data.smartdublin.ie/dataset/gtfs-r-real-time-passenger-information/[link]. +  
+* We also used bus stops data that contains the geo-location for each bus stop in Dublin. This data was downloaded from Smart Dublin website: https://data.smartdublin.ie/dataset/gtfs-r-real-time-passenger-information/[link]. +  
 
 == About The Technology 
-_Apache_Spark_(TM) and _Jupyter_Notebook_ as processing frameworks, and _Elasticsearch_ as datawarehouse. 
+_Apache_Spark_(TM) and _Jupyter_Notebook_ as processing frameworks.
+
+_Elasticsearch_ as data warehouse. 
 
 == About The Requirements & Usage 
 * Processing is accomplished by using Spark 2.4.5 (PySpark) and Python 3.7.5.
-* Please look at the 'Requirements.txt' file for required libraries. 
-* Instructions below assumes that the code will run on _Databricks_. 
+* Please look at the `Requirements` directory for required libraries. 
+* Instructions below assume that the code will run on _Databricks_. 
 * Since we use _Elasticsearch_, in order to run the code you will need to write the following command on your VM cmd: 'sudo docker-compose up -d'
-* Code is written as if we read stream from Kafka server, look at the cell 'read stream data' in 'final_app.ipynb'. 
+* Code is written as if we read stream data from Kafka server, look at the cell 'read stream data' in `final_app.ipynb`. 
 
 === Final Task 
-In order to use the app (as a user) please enter the dashboard: https://eastus.azuredatabricks.net/?o=6694791539123117#notebook/2483473424245047/dashboard/2285495459158863/present/[AppDashboard]. + and follow the instructions. 
+In order to use the app (as a user) please enter the dashboard link and follow the instructions: https://eastus.azuredatabricks.net/?o=6694791539123117#notebook/2483473424245047/dashboard/2285495459158863/present/[AppDashboard]. +  
 
 In order to run the app code, please run the following files in the following order: 
-1. 'attractions_schema_matching_using_NLP_methods.ipynb' 
-2. 'create_all_static_data_dfs.ipynb' 
-3. 'final_app.ipynb' 
-	Notice: this file includes code to create and upload to 			_Elasticsearch_ the Delay stream data. Please type your 			_Elasticsearch_ host number in the _imports_ cell. 
+
+1. `schema_matching_NLP.ipynb` 
+
+2. `create_all_static_data_dfs.ipynb`
+
+3. `final_app.ipynb` 
+-> Notice: this file includes code to create and upload to _Elasticsearch_ the Delay stream data. Please type your _Elasticsearch_ host number in the 'imports' cell. 
 
 In order to run the final app you are requested to choose _one_ of the options at the top of the notebook: 
+
 * For Stream Sources, enter your api in the "API" option.
+
 * For Batch Sources, enter your json path in the "Json path" option.
+
 * For a single source, choose one of the bus stops options presented in the "Source Bus Stop" option.
 
-The input data must include the same df columns as described in the 'final_app.ipynb' in the cell 'dublin data schema'. 
+The input data must include the same df columns as described in the `final_app.ipynb` in the cell 'dublin data schema'. 
 
 
 === Warm up 
-In order to run the Warm Up part, please run all files in the _warmup_task_ directory in the following order: 
-1. 'preprocess_n_save_external_data.ipynb'
-2. 'train_lr_model_task_2.ipynb' 
-3. 'train_lr_task_3.ipynb' 
-4. 'warmup_final.ipynb'
+In order to run the Warm Up part, please run all files in the `warmup_task` directory in the following order: 
+
+1. `preprocess_n_save_external_data.ipynb`
+
+2. `train_lr_model_task_2.ipynb`
+
+3. `train_lr_task_3.ipynb` 
+
+4. `warmup_final.ipynb`
