@@ -33,7 +33,7 @@ image::presentation-picture.png[]
 
 * We also used bus stops data that contains the geo-location for each bus stop in Dublin. This data was downloaded from Smart Dublin website: https://data.smartdublin.ie/dataset/gtfs-r-real-time-passenger-information/[link]. +evant
 
-All relevant data is in the directory: `data`_ , except for the Dublin data that is received from the VM or from the user input.
+All relevant data is in the directory: `data` , except for the Dublin data that is received from the VM or from the user input.
 
 == About The Technology 
 _Apache_Spark_(TM) and _Jupyter_Notebook_ as processing frameworks.
