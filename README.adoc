@@ -31,7 +31,9 @@ image::presentation-picture.png[]
 
 * We matched these attractions data with attractions from the open data Ireland website: http://data.gov.ie/[link]. +  
 
-* We also used bus stops data that contains the geo-location for each bus stop in Dublin. This data was downloaded from Smart Dublin website: https://data.smartdublin.ie/dataset/gtfs-r-real-time-passenger-information/[link]. +  
+* We also used bus stops data that contains the geo-location for each bus stop in Dublin. This data was downloaded from Smart Dublin website: https://data.smartdublin.ie/dataset/gtfs-r-real-time-passenger-information/[link]. +evant
+
+All relevant data is in the directory: _data_ , except for the Dublin data that is receives from the VM or from the user input.
 
 == About The Technology 
 _Apache_Spark_(TM) and _Jupyter_Notebook_ as processing frameworks.
@@ -84,3 +86,5 @@ In order to run the Warm Up part, please run all files in the `warmup_task` dire
 3. `train_lr_task_3.ipynb` 
 
 4. `warmup_final.ipynb`
+
+Notice: some of the notebooks create data that is necessary to the notebooks comming after. 
