@@ -1,0 +1,644 @@
+﻿rating,name,category
+1,Jameson Distillery Bow St.,FOOD & DRINK
+2,Irish Whiskey Museum,MUSEUMS
+3,EPIC The Irish Emigration Museum,MUSEUMS
+4,The Little Museum of Dublin,MUSEUMS
+5,Kilmainham Gaol Museum,MUSEUMS
+6,Teeling Whiskey Distillery,FOOD & DRINK
+7,Glasnevin Cemetery Museum,MUSEUMS
+8,Trinity College Dublin,SIGHTS & LANDMARKS
+9,Guinness Storehouse,MUSEUMS
+10,National Museum of Ireland - Archaeology,MUSEUMS
+11,St Stephens Green,NATURE & PARKS
+12,The Book of Kells and the Old Library Exhibition,TRAVELER RESOURCES
+13,Phoenix Park,NATURE & PARKS
+14,National Botanic Gardens,NATURE & PARKS
+15,The Irish Rock 'N' Roll Museum Experience,MUSEUMS
+16,Dublin Zoo,ZOOS & AQUARIUMS
+17,14 Henrietta Street,MUSEUMS
+18,Chester Beatty,MUSEUMS
+19,Christ Church Cathedral,SIGHTS & LANDMARKS
+20,Croke Park Stadium Tour & GAA Museum,MUSEUMS
+21,Saint Patrick's Cathedral,SIGHTS & LANDMARKS
+22,National Gallery of Ireland,MUSEUMS
+23,The Jeanie Johnston: An Irish Famine Story,MUSEUMS
+24,Pearse Lyons Distillery,FOOD & DRINK
+25,GPO Museum,MUSEUMS
+26,Temple Bar,SIGHTS & LANDMARKS
+27,Grafton Street,SIGHTS & LANDMARKS
+28,The Famine Sculptures,SIGHTS & LANDMARKS
+29,St. Michan's Church,SIGHTS & LANDMARKS
+30,Vaults Live,CONCERTS & SHOWS
+31,Shelbourne Park Greyhound Stadium,SIGHTS & LANDMARKS
+32,National Museum of Ireland - Decorative Arts & History,MUSEUMS
+33,Dublinia,MUSEUMS
+34,Gaiety Theatre,CONCERTS & SHOWS
+35,Bord Gáis Energy Theatre,CONCERTS & SHOWS
+36,The National Wax Museum Plus,MUSEUMS
+37,O'Connell Street,SIGHTS & LANDMARKS
+38,Molly Malone Statue,SIGHTS & LANDMARKS
+39,Marsh's Library,TRAVELER RESOURCES
+40,Croke Park Stadium,SIGHTS & LANDMARKS
+41,National Museum of Ireland,MUSEUMS
+42,Merrion Square,SIGHTS & LANDMARKS
+43,Dublin Castle,SIGHTS & LANDMARKS
+44,Dublin Visitor Centre,TRAVELER RESOURCES
+45,Farmleigh House and Estate,NATURE & PARKS
+46,Phil Lynott Statue,SIGHTS & LANDMARKS
+47,Abbey Theatre,CONCERTS & SHOWS
+48,Roe & Co Distillery,FOOD & DRINK
+49,Dublin City Gallery The Hugh Lane,MUSEUMS
+50,Aviva Stadium,SIGHTS & LANDMARKS
+51,Drimnagh Castle,SIGHTS & LANDMARKS
+52,The Dublin Liberties Distillery,FOOD & DRINK
+53,Bram Stoker's Castle Dracula Dublin,MUSEUMS
+54,Irish Famine Exhibition,MUSEUMS
+55,Iveagh Gardens,NATURE & PARKS
+56,Poolbeg Lighthouse,SIGHTS & LANDMARKS
+57,Monument to Oscar Wilde,SIGHTS & LANDMARKS
+58,Seamus Heaney: Listen Now Again,MUSEUMS
+59,St. Audoen's Church,SIGHTS & LANDMARKS
+60,River Liffey,NATURE & PARKS
+61,National Leprechaun Museum,MUSEUMS
+62,War Memorial Gardens,NATURE & PARKS
+63,Dublin Mountains,NATURE & PARKS
+64,Sugarloaf Mountain,NATURE & PARKS
+65,Ha'penny Bridge,SIGHTS & LANDMARKS
+66,Experience Gaelic Games,CLASSES & WORKSHOPS
+67,Kylemore Karting,SIGHTS & LANDMARKS
+68,Samuel Beckett Bridge,SIGHTS & LANDMARKS
+69,Cliff Path Loop,NATURE & PARKS
+70,St. Stephen's Green Shopping Centre,SHOPPING
+71,3Arena,CONCERTS & SHOWS
+72,Rascals Brewing Company,FOOD & DRINK
+73,Garden of Remembrance,NATURE & PARKS
+74,Bull Island,NATURE & PARKS
+75,Irish Ferries,TRANSPORTATION
+76,Powerscourt Townhouse Centre,SHOPPING
+77,St. Teresa's Church,SIGHTS & LANDMARKS
+78,Awesome Walls,FUN & GAMES
+79,Hell-Fire Club,SIGHTS & LANDMARKS
+80,Irish Museum of Modern Art (IMMA),MUSEUMS
+81,National Library of Ireland,MUSEUMS
+82,City Hall,MUSEUMS
+83,The Spire,SIGHTS & LANDMARKS
+84,National Print Museum,MUSEUMS
+85,Dublin Writers Museum,MUSEUMS
+86,St. Patrick's Park,NATURE & PARKS
+87,Royal Hospital Kilmainham,SIGHTS & LANDMARKS
+88,The Custom House,SIGHTS & LANDMARKS
+89,The O'Connell Monument,SIGHTS & LANDMARKS
+90,Aras an Uachtarain (The Irish White House),MUSEUMS
+91,Olympia Theatre,CONCERTS & SHOWS
+92,James Joyce Statue,SIGHTS & LANDMARKS
+93,St. Mary's Pro-Cathedral,SIGHTS & LANDMARKS
+94,Marlay Park,NATURE & PARKS
+95,George's Street Arcade,SHOPPING
+96,Henry Street,SIGHTS & LANDMARKS
+97,The Forty Foot,NATURE & PARKS
+98,Clara Lara Fun Park,WATER & AMUSEMENT PARKS
+99,Dollymount Strand,NATURE & PARKS
+100,Freemason's Hall,SIGHTS & LANDMARKS
+101,Leopardstown Racecourse,CASINOS & GAMBLING
+102,Bewley's Lunchtime Theatre,CONCERTS & SHOWS
+103,Convention Centre Dublin,TRAVELER RESOURCES
+104,Pearse Museum,MUSEUMS
+105,Airfield Estate,NATURE & PARKS
+106,Irish Jewish Museum,MUSEUMS
+107,Sphere Within Sphere,SIGHTS & LANDMARKS
+108,Smithfield Square,SIGHTS & LANDMARKS
+109,Smock Alley Theatre 1662,CONCERTS & SHOWS
+110,O'Connell Bridge,SIGHTS & LANDMARKS
+111,The Porterhouse Brewing Company,FOOD & DRINK
+112,Irish Family History Centre,MUSEUMS
+113,Leinster House,SIGHTS & LANDMARKS
+114,Casino Marino,SIGHTS & LANDMARKS
+115,An Post General Post Office,SIGHTS & LANDMARKS
+116,Luas - Tram Services,TRANSPORTATION
+117,Imaginosity,MUSEUMS
+118,Temple Bar Food Market,SHOPPING
+119,Science Gallery Dublin,MUSEUMS
+120,Brewery Hops of Ireland,FOOD & DRINK
+121,John's Lane Church,SIGHTS & LANDMARKS
+122,Sandymount Strand,NATURE & PARKS
+123,Brown Thomas,SHOPPING
+124,Dublin Flea Market,SHOPPING
+125,Bank of Ireland,SIGHTS & LANDMARKS
+126,Great South Wall,SIGHTS & LANDMARKS
+127,Charles S. Parnell Monument,SIGHTS & LANDMARKS
+128,Bushy Park,NATURE & PARKS
+129,Mansion House,SIGHTS & LANDMARKS
+130,Arbour Hill Cemetery,SIGHTS & LANDMARKS
+131,Seapoint Beach,NATURE & PARKS
+132,Newman University Church,SIGHTS & LANDMARKS
+133,Museum of Literature Ireland,MUSEUMS
+134,Phoenix Park Visitor Centre & Ashtown Castle,TRAVELER RESOURCES
+135,"The Sporting Emporium Casino, Dublin",CASINOS & GAMBLING
+136,Jervis Shopping Centre,SHOPPING
+137,Stena Adventurer,TRANSPORTATION
+138,Smithfield Chimney,SIGHTS & LANDMARKS
+139,St Kevin's Catholic Church,SIGHTS & LANDMARKS
+140,Garda Museum & Archives,MUSEUMS
+141,"Marley Park Playground, Rathfarnham",FUN & GAMES
+142,Whitefriar Street Carmelite Church,SIGHTS & LANDMARKS
+143,Olivier Cornet Gallery,MUSEUMS
+144,Herbert Park,NATURE & PARKS
+145,Dubh Linn Gardens,NATURE & PARKS
+146,Corkagh Park,NATURE & PARKS
+147,The Icon Factory & The Icon Walk,MUSEUMS
+148,Fallon & Byrne,SHOPPING
+149,The Chapel Royal,SIGHTS & LANDMARKS
+150,Busaras,SIGHTS & LANDMARKS
+151,RDS Arena,SIGHTS & LANDMARKS
+152,Cobalt Cafe and Gallery,MUSEUMS
+153,Ticknock Mountain Bike Trails,NATURE & PARKS
+154,TCD Zoological Museum,MUSEUMS
+155,Windmill Lane Recording Studios,MUSEUMS
+156,Duke of Wellington Monument,SIGHTS & LANDMARKS
+157,King's Inns,SIGHTS & LANDMARKS
+158,Merrion Square Outdoor Gallery,MUSEUMS
+159,Moore Street,SIGHTS & LANDMARKS
+160,Church of Adam and Eve,SIGHTS & LANDMARKS
+161,Civic Theatre,CONCERTS & SHOWS
+162,Dublin Area Rapid Transit,TRANSPORTATION
+163,University College Dublin,SIGHTS & LANDMARKS
+164,St. Ann's Church,SIGHTS & LANDMARKS
+165,Jim Larkin Statue,SIGHTS & LANDMARKS
+166,Halfpenny Bridge Market,SHOPPING
+167,Four Courts,SIGHTS & LANDMARKS
+168,The Gerard Byrne Studio,MUSEUMS
+169,Jack Pott's Bingo,CASINOS & GAMBLING
+170,Royal Hibernian Academy,MUSEUMS
+171,Nassau Street,SIGHTS & LANDMARKS
+172,Wall of Fame,SIGHTS & LANDMARKS
+173,Andy Kenny Fitness,CLASSES & WORKSHOPS
+174,The Hungry Tree,SIGHTS & LANDMARKS
+175,Coolmine Equestrian Centre,NATURE & PARKS
+176,St Paul’s Church,SIGHTS & LANDMARKS
+177,Parnell Square,SIGHTS & LANDMARKS
+178,Children of Lir,SIGHTS & LANDMARKS
+179,Millennium Bridge,SIGHTS & LANDMARKS
+180,Saint Patrick's Festival in Dublin City,EVENTS
+181,Merrion Square Park Playground,FUN & GAMES
+182,Government Buildings,SIGHTS & LANDMARKS
+183,Viking Theatre @ the sheds,CONCERTS & SHOWS
+184,James Connolly Memorial Statue,SIGHTS & LANDMARKS
+185,Royal College of Surgeons,SIGHTS & LANDMARKS
+186,Campanile of Trinity College,SIGHTS & LANDMARKS
+187,Constance Markievicz Statue,SIGHTS & LANDMARKS
+188,Liffey Boardwalk,SIGHTS & LANDMARKS
+189,St Francis Xavier's Church,SIGHTS & LANDMARKS
+190,The Fitzwilliam Casino & Card Club,CASINOS & GAMBLING
+191,Fitzwilliam Square,NATURE & PARKS
+192,Matt Talbot Shrine,SIGHTS & LANDMARKS
+193,Leeson Street,SIGHTS & LANDMARKS
+194,Grand Canal Dock,SIGHTS & LANDMARKS
+195,Mount Jerome Cemetery,SIGHTS & LANDMARKS
+196,Clontarf Promenade,NATURE & PARKS
+197,Dublin City Wall and Gate,SIGHTS & LANDMARKS
+198,Dawson Street,SIGHTS & LANDMARKS
+199,Oscar Wilde House,SIGHTS & LANDMARKS
+200,Ski Club of Ireland,NATURE & PARKS
+201,National Aquatic Centre,FUN & GAMES
+202,Romanian Orthodox Church,SIGHTS & LANDMARKS
+203,Tymon Park,NATURE & PARKS
+204,River Dodder,NATURE & PARKS
+205,Grand Canal Square,SIGHTS & LANDMARKS
+206,The Liberty Market,SHOPPING
+207,Abbey Presbyterian Church,SIGHTS & LANDMARKS
+208,St. Mary's Church Haddington Road,SIGHTS & LANDMARKS
+209,St Nicholas of Myra,SIGHTS & LANDMARKS
+210,Robert Emmet Statue,SIGHTS & LANDMARKS
+211,Harold's Cross Greyhound Stadium,SIGHTS & LANDMARKS
+212,Deansgrange Cemetery,SIGHTS & LANDMARKS
+213,Blessington Street Park (The Basin),NATURE & PARKS
+214,Fairview Park,NATURE & PARKS
+215,Garda Siochana Memorial Garden,SIGHTS & LANDMARKS
+216,St. Catherine's Park,NATURE & PARKS
+217,Playland Casino,CASINOS & GAMBLING
+218,Omni Park Shopping Centre,SHOPPING
+219,Royal Canal Dublin,NATURE & PARKS
+220,Revenue Museum,MUSEUMS
+221,Saint Andrew's Parish,SIGHTS & LANDMARKS
+222,Theobald Wolfe Tone Statue,SIGHTS & LANDMARKS
+223,Rhinestones,SHOPPING
+224,National Photographic Archive,MUSEUMS
+225,Courtville Matthew Weldon,SHOPPING
+226,St. Audoen's Catholic Church,SIGHTS & LANDMARKS
+227,Rory Gallagher Corner,SIGHTS & LANDMARKS
+228,Fusilier's Arch,SIGHTS & LANDMARKS
+229,Wholesale Fruit Vegetable And Flower Market,FOOD & DRINK
+230,51st&Green,TRAVELER RESOURCES
+231,Sandycove Beach,NATURE & PARKS
+232,Croppies Acre Memorial Park,NATURE & PARKS
+233,Gallery of Photography,MUSEUMS
+234,The Séamus Ennis Arts Centre,SIGHTS & LANDMARKS
+235,Ilac Centre,SHOPPING
+236,Draiocht Blanchardstown,SIGHTS & LANDMARKS
+237,The Wishing Hand,SIGHTS & LANDMARKS
+238,Universal Links on Human Rights,SIGHTS & LANDMARKS
+239,Huguenot Cemetery,SIGHTS & LANDMARKS
+240,Edward Delaney's Famine Memorial,SIGHTS & LANDMARKS
+241,National Memorial,SIGHTS & LANDMARKS
+242,Mountjoy Square Park,SIGHTS & LANDMARKS
+243,Sean O'Casey Bridge,SIGHTS & LANDMARKS
+244,The Liberties,OTHER
+245,Anna Livia Millennium Fountain,SIGHTS & LANDMARKS
+246,The New Theatre,CONCERTS & SHOWS
+247,"Our Lady of Mount Carmel, Whitefriar Street Church",SIGHTS & LANDMARKS
+248,Father Theobald Mathew Statue,SIGHTS & LANDMARKS
+249,Squirrel Graffiti,SIGHTS & LANDMARKS
+250,St. Catherine's Church,SIGHTS & LANDMARKS
+251,Energia Park,FUN & GAMES
+252,St. Saviour's Dominican Church,SIGHTS & LANDMARKS
+253,Booterstown Bird Sanctuary,NATURE & PARKS
+254,Sir John Gray Statue,SIGHTS & LANDMARKS
+255,Saint Paul's Church,SIGHTS & LANDMARKS
+256,"Immaculate Heart of Mary Church, City Quay",SIGHTS & LANDMARKS
+257,Urban Plant Life,NATURE & PARKS
+258,The Last Supper Mural,SIGHTS & LANDMARKS
+259,Blanchardstown Centre,SHOPPING
+260,The Douglas Hyde Gallery,MUSEUMS
+261,The Distillery Store,FOOD & DRINK
+262,The Green Door Market,FOOD & DRINK
+263,Cabinteely House,SIGHTS & LANDMARKS
+264,St. Joseph's Church,SIGHTS & LANDMARKS
+265,Donnybrook Parish - Church of the Sacred Heart,SIGHTS & LANDMARKS
+266,St. Mary of the Angels,SIGHTS & LANDMARKS
+267,Bernardo O'Higgins Statue,SIGHTS & LANDMARKS
+268,Liberty Hall,SIGHTS & LANDMARKS
+269,Connolly Station,SIGHTS & LANDMARKS
+270,The Ark,MUSEUMS
+271,St. Audoen's Park,NATURE & PARKS
+272,Funky Monkeys Clarehall,FUN & GAMES
+273,Thomas Davis Statue,SIGHTS & LANDMARKS
+274,Brickfield Park,NATURE & PARKS
+275,St Canice's Church,SIGHTS & LANDMARKS
+276,Gravity Climbing Centre,FUN & GAMES
+277,Dublin Unitarian Church,SIGHTS & LANDMARKS
+278,St. Patrick's Tower,SIGHTS & LANDMARKS
+279,Loughshinny Beach,NATURE & PARKS
+280,Chariot of Life,SIGHTS & LANDMARKS
+281,St. Michan's Roman Catholic Church,SIGHTS & LANDMARKS
+282,Patrick Kavanagh statue,SIGHTS & LANDMARKS
+283,Dail Eireann,SIGHTS & LANDMARKS
+284,Go Bus,TRANSPORTATION
+285,Viking Longboat Sculpture,SIGHTS & LANDMARKS
+286,Church of Our Lady of Perpetual Succour,SIGHTS & LANDMARKS
+287,Central Bank of Ireland,MUSEUMS
+288,The Ambassador Event Centre,SIGHTS & LANDMARKS
+289,Moore Street Mall,SHOPPING
+290,The Doorway Gallery,MUSEUMS
+291,Four Angels Fountain,SIGHTS & LANDMARKS
+292,Sir Arthur Edward Guinness Statue,SIGHTS & LANDMARKS
+293,Grattan Bridge,SIGHTS & LANDMARKS
+294,The Proclamation Sculpture,SIGHTS & LANDMARKS
+295,William Smith O'Brien Statue,SIGHTS & LANDMARKS
+296,Newman House,SIGHTS & LANDMARKS
+297,Sunlight Chambers,SIGHTS & LANDMARKS
+298,Dublin Tunnel,TRANSPORTATION
+299,Project Arts Centre,MUSEUMS
+300,Brendan Behan Sculpture,SIGHTS & LANDMARKS
+301,Marlay House,SIGHTS & LANDMARKS
+302,Cruagh Wood,NATURE & PARKS
+303,Parnell Park,SIGHTS & LANDMARKS
+304,Saint Enda's Park,NATURE & PARKS
+305,4 Kings Casino & Card Club,CASINOS & GAMBLING
+306,Thomas Moore Statue,SIGHTS & LANDMARKS
+307,Saint Peter's Church,SIGHTS & LANDMARKS
+308,George's Dock,SIGHTS & LANDMARKS
+309,Dunsink Observatory,MUSEUMS
+310,Church of Mary Immaculate,SIGHTS & LANDMARKS
+311,St. Michael's Church,SIGHTS & LANDMARKS
+312,Dublin Tourism Centre,TRAVELER RESOURCES
+313,Albert College Park/Hampstead Park,NATURE & PARKS
+314,Triumphal Arch,SIGHTS & LANDMARKS
+315,Mount Argus Church,SIGHTS & LANDMARKS
+316,Powerscourt House,SIGHTS & LANDMARKS
+317,St. Werburgh's Church,SIGHTS & LANDMARKS
+318,Dublin Mosque,SIGHTS & LANDMARKS
+319,Meeting Place Sculpture,SIGHTS & LANDMARKS
+320,Skyline Croke Park,SIGHTS & LANDMARKS
+321,Irishtown Nature Reserve,NATURE & PARKS
+322,Three Fates,SIGHTS & LANDMARKS
+323,Church of Our Lady of Good Counsel,SIGHTS & LANDMARKS
+324,Grand Lodge Of Ireland,SIGHTS & LANDMARKS
+325,St. Thomas Indian Orthodox Church,SIGHTS & LANDMARKS
+326,"Holy Apostles Peter and Paul, Russian Orthodox Church",SIGHTS & LANDMARKS
+327,Lambert Puppet Theatre,CONCERTS & SHOWS
+328,Axis,CONCERTS & SHOWS
+329,The Victims Statues,SIGHTS & LANDMARKS
+330,St Mary's Church,SIGHTS & LANDMARKS
+331,A Store Is Born,SHOPPING
+332,Goldenbridge Graveyard,SIGHTS & LANDMARKS
+333,House of the Dead,SIGHTS & LANDMARKS
+334,Waterways Ireland Centre,TRAVELER RESOURCES
+335,St. Joseph's Parish Church,SIGHTS & LANDMARKS
+336,Boulevard Gallery,MUSEUMS
+337,Gallery Zozimus,MUSEUMS
+338,Nativity of the Blessed Virgin Mary Church,SIGHTS & LANDMARKS
+339,Miraculous Medal Church,SIGHTS & LANDMARKS
+340,St. Mary's Abbey,SIGHTS & LANDMARKS
+341,Heuston Station,SIGHTS & LANDMARKS
+342,Timepiece Antique Clocks,SHOPPING
+343,Our Lady Queen of Peace,SIGHTS & LANDMARKS
+344,Ha'penny Flea Market,SHOPPING
+345,Blessed Sacrament Chapel,SIGHTS & LANDMARKS
+346,Hemp Company of Dublin,SIGHTS & LANDMARKS
+347,Mary Immaculate Church,SIGHTS & LANDMARKS
+348,Wilde Vintage Dublin,SHOPPING
+349,Kerlin Gallery,MUSEUMS
+350,Church of the Assumption Booterstown/Convent of Mercy Booterstown,SIGHTS & LANDMARKS
+351,Goethe Institut,MUSEUMS
+352,St Kevins Park,NATURE & PARKS
+353,Church of the Good Shepherd,SIGHTS & LANDMARKS
+354,Church of St James,SIGHTS & LANDMARKS
+355,Church of the Holy Name,SIGHTS & LANDMARKS
+356,Poppintree Park,NATURE & PARKS
+357,Harvey Nichols (Dublin) Ltd,SHOPPING
+358,Palmerston Park,NATURE & PARKS
+359,World Poverty Stone,SIGHTS & LANDMARKS
+360,Rathgar Methodist Church,SIGHTS & LANDMARKS
+361,Rosie Hackett Bridge,SIGHTS & LANDMARKS
+362,Saint Catherine of Alexandria,SIGHTS & LANDMARKS
+363,George Salmon Statue,SIGHTS & LANDMARKS
+364,St. Stephen's Church,SIGHTS & LANDMARKS
+365,The 40 Steps,SIGHTS & LANDMARKS
+366,Deansgrange Library,SIGHTS & LANDMARKS
+367,Royal Irish Academy,SIGHTS & LANDMARKS
+368,Broom Bridge,SIGHTS & LANDMARKS
+369,Victorian Chapel,SIGHTS & LANDMARKS
+370,Church of the Holy Family,SIGHTS & LANDMARKS
+371,Tolka Valley Park,NATURE & PARKS
+372,Lord Edward Street,SIGHTS & LANDMARKS
+373,St. Joseph`s Church,SIGHTS & LANDMARKS
+374,Holy Cross Church,SIGHTS & LANDMARKS
+375,Oliver Goldsmith Statue,SIGHTS & LANDMARKS
+376,Zion Church,SIGHTS & LANDMARKS
+377,Nutgrove Shopping Centre,SHOPPING
+378,"Tailors' Hall, Back Lane, Dublin 8",SIGHTS & LANDMARKS
+379,Tourist Office Dublin,TRAVELER RESOURCES
+380,Sandford Parish Church,SIGHTS & LANDMARKS
+381,Saint Laurence's Church,SIGHTS & LANDMARKS
+382,Our Lady of Dolours Church,SIGHTS & LANDMARKS
+383,Matt Talbot Statue,SIGHTS & LANDMARKS
+384,Racing Tours Ireland,NATURE & PARKS
+385,Santry Community Garden,NATURE & PARKS
+386,Dionysus Statue,SIGHTS & LANDMARKS
+387,Talbot Memorial Bridge,SIGHTS & LANDMARKS
+388,St Thomas the Apostle Church,SIGHTS & LANDMARKS
+389,Rathmines Library,TRAVELER RESOURCES
+390,Christ Church Rathgar,SIGHTS & LANDMARKS
+391,Dame Lane,SIGHTS & LANDMARKS
+392,St Bartholomew's Church,SIGHTS & LANDMARKS
+393,The Church of Jesus Christ of Latter-day Saints,SIGHTS & LANDMARKS
+394,Church of The Most Precious Blood,SIGHTS & LANDMARKS
+395,Church of the Annunciation,SIGHTS & LANDMARKS
+396,Church of the Three Patrons,SIGHTS & LANDMARKS
+397,Isolde's Tower,SIGHTS & LANDMARKS
+398,Al-Mustafa Islamic Centre Ireland,SIGHTS & LANDMARKS
+399,Church of Our Lady of Good Council,SIGHTS & LANDMARKS
+400,St Philip and St James' Church,SIGHTS & LANDMARKS
+401,"Art, Bites, Crafts Drumcondra Market",SHOPPING
+402,Kill O’The Grange Parish Church,SIGHTS & LANDMARKS
+403,Finglas Abbey,SIGHTS & LANDMARKS
+404,Harolds Cross Park,NATURE & PARKS
+405,Methodist Centenary Church,SIGHTS & LANDMARKS
+406,Royal Canal Park,NATURE & PARKS
+407,Sandymount Green,NATURE & PARKS
+408,St Canice's Church of Ireland,SIGHTS & LANDMARKS
+409,St Mochta's Church,SIGHTS & LANDMARKS
+410,Our Lady Help of Christians Church,SIGHTS & LANDMARKS
+411,South Hill Evangelical Church,SIGHTS & LANDMARKS
+412,Dun Laoghaire-Rathdown library,TRAVELER RESOURCES
+413,John Farrington Antiques,SHOPPING
+414,National Archives of Ireland,MUSEUMS
+415,St Brigid's Church of Ireland,SIGHTS & LANDMARKS
+416,Cathal Brugha Visitor Centre,MUSEUMS
+417,Cabra Library,TRAVELER RESOURCES
+418,St. Jude's Church of Ireland Tower,SIGHTS & LANDMARKS
+419,Cork Hill Gate,SIGHTS & LANDMARKS
+420,Dublin - Milltown Park,NATURE & PARKS
+421,Jeremiah O'Donovan Rossa,SIGHTS & LANDMARKS
+422,Talbot Street Memorial,SIGHTS & LANDMARKS
+423,Irish Sailors Merchant Ship Memorial,SIGHTS & LANDMARKS
+424,RIAI Headquarters,SIGHTS & LANDMARKS
+425,Constance Markievicz Bust,SIGHTS & LANDMARKS
+426,The Linesman,SIGHTS & LANDMARKS
+427,Christ the King Catholic Church,SIGHTS & LANDMARKS
+428,Custom House Memorial,SIGHTS & LANDMARKS
+429,Irish Whiskey Corner,MUSEUMS
+430,Our Lady of Dolours Church,SIGHTS & LANDMARKS
+431,RCB Library,MUSEUMS
+432,Aga Szot Art Studio,MUSEUMS
+433,Happenings- Fitzwilliam Square Open Air Cinema,SIGHTS & LANDMARKS
+434,Revolution 1916,MUSEUMS
+435,St. Finian's Lutheran Church,SIGHTS & LANDMARKS
+436,Thomas M Kettle Memorial,SIGHTS & LANDMARKS
+437,St. Thomas's Church,SIGHTS & LANDMARKS
+438,George Russell Monument,SIGHTS & LANDMARKS
+439,Ceol - The Irish Traditional Music Centre,MUSEUMS
+440,James Joyce Bust,SIGHTS & LANDMARKS
+441,Empire Casino,CASINOS & GAMBLING
+442,The Church of Jesus Christ of Latter-day Saints,SIGHTS & LANDMARKS
+443,Bedford Tower,SIGHTS & LANDMARKS
+444,Irish Architectural Archive,MUSEUMS
+445,Taylor Galleries,MUSEUMS
+446,Heraldic Museum / Genealogical Office,MUSEUMS
+447,Fr. Mathew Memorial Hall,SIGHTS & LANDMARKS
+448,Museum of Childhood,MUSEUMS
+449,William Butler Yeats Memorial,SIGHTS & LANDMARKS
+450,The Steine,SIGHTS & LANDMARKS
+451,Theatre Upstairs,CONCERTS & SHOWS
+452,Butt Bridge,SIGHTS & LANDMARKS
+453,St. George's Church,SIGHTS & LANDMARKS
+454,Pearse Street Library,TRAVELER RESOURCES
+455,The Old Liffey Ferry,TRANSPORTATION
+456,Jokers Chair,SIGHTS & LANDMARKS
+457,Carlton Casinò Club,CASINOS & GAMBLING
+458,Johnstown Park,NATURE & PARKS
+459,St Patricks Hall,SIGHTS & LANDMARKS
+460,Church of the Annunciation,SIGHTS & LANDMARKS
+461,Our Lady of the Rosary Church,SIGHTS & LANDMARKS
+462,SFX City Theatre,CONCERTS & SHOWS
+463,Stillorgan Village Centre,SHOPPING
+464,Fitzpatrick's Casino,CASINOS & GAMBLING
+465,Trinity Chapel,SIGHTS & LANDMARKS
+466,Church of Our Lady of the Holy Rosary of Fatima,SIGHTS & LANDMARKS
+467,The Library Project,TRAVELER RESOURCES
+468,The River Poddle,SIGHTS & LANDMARKS
+469,Nelsons Head,SIGHTS & LANDMARKS
+470,Fernhill Park,NATURE & PARKS
+471,The Three Graces,SIGHTS & LANDMARKS
+472,Rubicon Gallery,MUSEUMS
+473,Phibsboro Library,SIGHTS & LANDMARKS
+474,Gormleys Fine Art,MUSEUMS
+475,James Clarence Mangan Bust,SIGHTS & LANDMARKS
+476,Aldborough House,SIGHTS & LANDMARKS
+477,St.Laurence O'Toole Catholic Church​​​,SIGHTS & LANDMARKS
+478,Wood Quay Amphitheatre,SIGHTS & LANDMARKS
+479,Ranelagh Gardens,NATURE & PARKS
+480,William Conyngham Plunket,SIGHTS & LANDMARKS
+481,Saint John's Church & Prebytery,SIGHTS & LANDMARKS
+482,Military Archives,SIGHTS & LANDMARKS
+483,Brian Boru's Well,SIGHTS & LANDMARKS
+484,Belgrave Square,NATURE & PARKS
+485,The Whichcraft Gallery,MUSEUMS
+486,Gulliver and the Lilliputians,SIGHTS & LANDMARKS
+487,McKee Memorial,SIGHTS & LANDMARKS
+488,Adelaide Road Presbyterian Church,SIGHTS & LANDMARKS
+489,The Labour History Museum,MUSEUMS
+490,Saint Augustine & Saint John's Church,SIGHTS & LANDMARKS
+491,Graphic Studio Gallery,MUSEUMS
+492,Rory O'More Bridge,SIGHTS & LANDMARKS
+493,The Berkeley Library,TRAVELER RESOURCES
+494,Luke Kelly Head Statue,SIGHTS & LANDMARKS
+495,Ahlul Bayt Islamic Centre,SIGHTS & LANDMARKS
+496,P&O Ferries Terminal 3,TRANSPORTATION
+497,Robert Emmet Bridge,SIGHTS & LANDMARKS
+498,Bedford Hall Suite,SIGHTS & LANDMARKS
+499,O’Donovan Rossa Bridge,SIGHTS & LANDMARKS
+500,Gaswork,SIGHTS & LANDMARKS
+501,Catholic Central Library,TRAVELER RESOURCES
+502,War Memorial,SIGHTS & LANDMARKS
+503,Five Lamps Brewery,FOOD & DRINK
+504,Martin Fennelly Antiques,SHOPPING
+505,St. Colmcille's Church,SIGHTS & LANDMARKS
+506,Macau Casino Club Dublin,CASINOS & GAMBLING
+507,Dublin City Council Fruit Market,SIGHTS & LANDMARKS
+508,Apollo Gallery,MUSEUMS
+509,Met Eireann Headquarters,SIGHTS & LANDMARKS
+510,The State Appartment,MUSEUMS
+511,Diving bell,SIGHTS & LANDMARKS
+512,Liam Mellows Bridge,SIGHTS & LANDMARKS
+513,The Good Bits,CONCERTS & SHOWS
+514,Lord Ardilaun's Statue,SIGHTS & LANDMARKS
+515,Chancery Lane Theatre,CONCERTS & SHOWS
+516,Civic Offices Atrium,SIGHTS & LANDMARKS
+517,Alliance Francaise Dublin,MUSEUMS
+518,Sean O'Casey Community Centre Theatre,CONCERTS & SHOWS
+519,Hallward Gallery,MUSEUMS
+520,Bust of Veronica Guerin,SIGHTS & LANDMARKS
+521,Monument John Field,SIGHTS & LANDMARKS
+522,Johnston Antiques,SHOPPING
+523,SO Fine Art Editions,MUSEUMS
+524,Origin Gallery,MUSEUMS
+525,Irish Red Cross Head Office - Powerscourt Gallery,SIGHTS & LANDMARKS
+526,Armenian Genocide Memorial,SIGHTS & LANDMARKS
+527,O'Sullivan Antiques,SHOPPING
+528,RDS Library,TRAVELER RESOURCES
+529,La Catedral Studios,SIGHTS & LANDMARKS
+530,Islamic Cultural Centre of Ireland,SIGHTS & LANDMARKS
+531,Designer Mart Temple Bar,SHOPPING
+532,Tribute Head II,SIGHTS & LANDMARKS
+533,Shona Sculpture Gallery,MUSEUMS
+534,Centre for Creative Practices,MUSEUMS
+535,Father Matthew Bridge,SIGHTS & LANDMARKS
+536,Municipal Museum,MUSEUMS
+537,Realt Na Mara,SIGHTS & LANDMARKS
+538,Na Fianna Eireann Memorial,SIGHTS & LANDMARKS
+539,Dublin City Archive,MUSEUMS
+540,Kavanagh Gallery,MUSEUMS
+541,Jack O'Neills,FOOD & DRINK
+542,Guinness Open Gate Brewery,FOOD & DRINK
+543,Carrickgollogan Forest,NATURE & PARKS
+544,Evans Art Supplies,MUSEUMS
+545,Kilternan Parish Church,SIGHTS & LANDMARKS
+546,Rathmichael Church,SIGHTS & LANDMARKS
+547,Boland's Mill,SIGHTS & LANDMARKS
+548,Church of the Sacred Heart,SIGHTS & LANDMARKS
+549,St Anne's Church,SIGHTS & LANDMARKS
+550,St Matthias Church,SIGHTS & LANDMARKS
+551,Criminal Courts of Justice,SIGHTS & LANDMARKS
+552,St Patricks Church Ringsend,SIGHTS & LANDMARKS
+553,Phoenix Park Monument,SIGHTS & LANDMARKS
+554,Linear Park,NATURE & PARKS
+555,Foxrock Church,SIGHTS & LANDMARKS
+556,Dr. Quirkey's Good Time Emporium,CASINOS & GAMBLING
+557,Bg Art Studio,MUSEUMS
+558,Solomon Fine Art,SIGHTS & LANDMARKS
+559,Dublin Indoor Sports,FUN & GAMES
+560,Artists Gift Gallery,MUSEUMS
+561,Smithfield Outdoor Market,SHOPPING
+562,Arbutus Garden Tours,NATURE & PARKS
+563,Dublin City Archives,MUSEUMS
+564,Geological Museum,MUSEUMS
+565,Crypt Theater,CONCERTS & SHOWS
+566,Antique Prints,SHOPPING
+567,IDA Tower,SHOPPING
+568,Bridge Gallery,MUSEUMS
+569,Contemporary Music Centre,CONCERTS & SHOWS
+570,Davis Gallery,MUSEUMS
+571,Dublin Civic Museum,MUSEUMS
+572,Green on Red Gallery,MUSEUMS
+573,Original Print Gallery,MUSEUMS
+574,Wilde Venue,CONCERTS & SHOWS
+575,Little Green Street Gallery,MUSEUMS
+576,Four Gallery,MUSEUMS
+577,Lough Ennel,SIGHTS & LANDMARKS
+578,The Copper House Gallery,MUSEUMS
+579,Olympus Dance and Music Academy,CLASSES & WORKSHOPS
+580,Dmelseo,SIGHTS & LANDMARKS
+581,Belcamp Park,NATURE & PARKS
+582,Morehampton Road Wildlife Sanctuary,NATURE & PARKS
+583,Coultry Park,NATURE & PARKS
+584,Cabbage Garden,NATURE & PARKS
+585,Riverrun Garden,NATURE & PARKS
+586,Diamond Park,NATURE & PARKS
+587,Seán Russell - Seán Ruiséal,SIGHTS & LANDMARKS
+588,Mr. Screen,SIGHTS & LANDMARKS
+589,Talking Heads,SIGHTS & LANDMARKS
+590,Jorgensen Gallery,MUSEUMS
+591,Dublin District Coroner's Court,SIGHTS & LANDMARKS
+592,Donaghmede Library,TRAVELER RESOURCES
+593,Saint Phillip's Church,SIGHTS & LANDMARKS
+594,Pembroke Library,TRAVELER RESOURCES
+595,Inchicore Library,TRAVELER RESOURCES
+596,Dartmouth Square Park,NATURE & PARKS
+597,Phibsboro Library,TRAVELER RESOURCES
+598,Richard Crosbie Statue,SIGHTS & LANDMARKS
+599,Balla Bàn Art Gallery,MUSEUMS
+600,Chancery Park,NATURE & PARKS
+601,Nativity of Our Lady Church,SIGHTS & LANDMARKS
+602,Paddy Power's Museum of Mischief,MUSEUMS
+603,Scherzer rolling lift bridges,SIGHTS & LANDMARKS
+604,Romanian Orthodox Church,SIGHTS & LANDMARKS
+605,St Patrick's Athletic Football Club,OTHER
+606,Spectrum Physiotherapy,OTHER
+607,kay alkar,OTHER
+608,Law Society of Ireland,SIGHTS & LANDMARKS
+609,Iveagh Fitness,SIGHTS & LANDMARKS
+610,In-spire Galerie,MUSEUMS
+611,National College of Art and Design,SIGHTS & LANDMARKS
+612,City Fruit and Vegetable Wholesale Markets,SIGHTS & LANDMARKS
+613,The Fumbally Stables,SIGHTS & LANDMARKS
+614,3 Walls Gallery,MUSEUMS
+615,Irish Railway Record Society - Dublin,TRAVELER RESOURCES
+616,Saint Agatha's Church,SIGHTS & LANDMARKS
+617,VHI Scots Hall,SIGHTS & LANDMARKS
+618,Parnell Bridge,SIGHTS & LANDMARKS
+619,Church of Saint Theresa of the Child Jesus,SIGHTS & LANDMARKS
+620,Dublin Civic Trust,TRAVELER RESOURCES
+621,Needful Things,SHOPPING
+622,Fitzwilliam Hall,SIGHTS & LANDMARKS
+623,The Úna Guy Studio,MUSEUMS
+624,Pallas Projects/Studios - Dublin,MUSEUMS
+625,Black Church Print Studio,MUSEUMS
+626,Hang Tough Gallery,MUSEUMS
+627,Kevin Street Library,TRAVELER RESOURCES
+628,Pavee Point Traveller & Roma Centre,SIGHTS & LANDMARKS
+629,Ardan Garden,NATURE & PARKS
+630,Rotunda Hospital Chapel,SIGHTS & LANDMARKS
+631,Belvedere College,SIGHTS & LANDMARKS
+632,French Embassy in Ireland - Ambassade de France en Irlande,SIGHTS & LANDMARKS
+633,Island Bridge,SIGHTS & LANDMARKS
+634,Iveagh Markets,SIGHTS & LANDMARKS
+635,Griffith Bridge,SIGHTS & LANDMARKS
+636,Camac Bridge,SIGHTS & LANDMARKS
+637,Atelier Maser - Dublin,MUSEUMS
+638,Edward Worth Library,TRAVELER RESOURCES
+639,Ashfield College,OTHER
+640,Amusement City Dublin,CASINOS & GAMBLING
+641,Funland Casino,CASINOS & GAMBLING
+642,Irish Village Markets,SHOPPING
+643,Fair Lady,EVENTS
